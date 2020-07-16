@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-FindMyEvent-App/static/css/main.d522e94b.chunk.css",
+    "main.js": "/React-FindMyEvent-App/static/js/main.c762ab94.chunk.js",
+    "main.js.map": "/React-FindMyEvent-App/static/js/main.c762ab94.chunk.js.map",
+    "runtime-main.js": "/React-FindMyEvent-App/static/js/runtime-main.fe96f370.js",
+    "runtime-main.js.map": "/React-FindMyEvent-App/static/js/runtime-main.fe96f370.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-FindMyEvent-App/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f6a7d0f.chunk.js": "/React-FindMyEvent-App/static/js/2.4f6a7d0f.chunk.js",
+    "static/js/2.4f6a7d0f.chunk.js.map": "/React-FindMyEvent-App/static/js/2.4f6a7d0f.chunk.js.map",
+    "index.html": "/React-FindMyEvent-App/index.html",
+    "precache-manifest.41f78793d6db4d0feef07621afb099ef.js": "/React-FindMyEvent-App/precache-manifest.41f78793d6db4d0feef07621afb099ef.js",
+    "service-worker.js": "/React-FindMyEvent-App/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-FindMyEvent-App/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d522e94b.chunk.css.map": "/React-FindMyEvent-App/static/css/main.d522e94b.chunk.css.map",
+    "static/js/2.4f6a7d0f.chunk.js.LICENSE.txt": "/React-FindMyEvent-App/static/js/2.4f6a7d0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe96f370.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f6a7d0f.chunk.js",
+    "static/css/main.d522e94b.chunk.css",
+    "static/js/main.c762ab94.chunk.js"
+  ]
+}
