@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Bounce Back Seminar of Dr. Vivek Bindra",
+      "description": "We are glad to introduce you to our upcoming seminar on the `Ultra Productivity & Peak Performance` program brought to you by none other than the very charismatic Dr. Vivek Bindra ™ (International Motivational Speaker | Leadership Consultant | CEO Coach)",
+      "Date": "15-8-2020",
+      "Phone": "555-666-5222",
+      "Email": "motivate@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8885",
+      "category": "Talks",
+      "State": "TELANGANA"
+    },
+    {
+      "id": "2",
+      "name": "Happiness Mantra by Gaur Gopal Das",
+      "description": "We are honored to bring the internationally acclaimed life coach Shri Gaur Gopal Das to the Mumbai audience. Based on the timeless wisdom coming down from ages, his talks make the audience think deeper and find simple solutions to find Peace & Happiness.",
+      "Date": "12-10-2020",
+      "Phone": "665-555-5222",
+      "Email": "spirituality@gmail.com",
+      "Venue": "GOA",
+      "Venueid": "5678",
+      "category": "Talks",
+      "State": "GOA"
+    },
+    {
+      "id": "3",
+      "name": "Sand Shadow Sorcery",
+      "description": "Sand Shadow Sorcery brings together the three most creative and well-known exponents of Sand Art, Shadow Play, and Mystery Entertainment on one single platform — to present a never-before experience online, for an audience drawn from all across the globe.Three superstars join together to present a most spectacular experience, online! Witness the incredible acts of Sand Artiste Raghavendra Hegde, Shadow-Caster Prahlad Acharya, and The Mind Reader Nakul Shenoy, with your family right from your homes",
+      "Date": "12-7-2020",
+      "Phone": "555-666-5222",
+      "Email": "motivate@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8885",
+      "category": "Art",
+      "State": "TELANGANA"
+    },
+    {
+      "id": "4",
+      "name": "Felicity Masterclass",
+      "description": "Felicity Theatre Charitable Organisation brings to you a fun-filled online workshop conducted by the most celebrated personalities of TV/Bollywood industry.Felicity Theatre takes pride in giving the young generation a thriving atmosphere to grow, discover and practice their passion by giving them the opportunity to learn from the renowned actors, directors of the country.A wonderful opportunity for the students to be a part of our first-ever online learning sessions with the maestros of acting/direction.Other aspects covered will be creating characters, speech/ monologue, motivation and stage appearance.  ",
+      "Date": "5-7-2020",
+      "Phone": "555-666-5222",
+      "Email": "abcd@gmail.com",
+      "Venue": "MUMBAI",
+      "Venueid": "8885",
+      "category": "workshop",
+      "State": "Maharashtra"
+    },
+    {
+      "id": "5",
+      "name": "Zebu - 2 Days Trading Workshop on Stock Market",
+      "description": "Zebu School Presents the Most Demand Course about Indian Stock Market for all Trader Profiles! It Gives Excellent Expert Level Trading Knowledge about Equity, Commodities, Currencies and Options!",
+      "Date": "19-8-2020",
+      "Phone": "555-666-5222",
+      "Email": "abcdefg@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8885",
+      "category": "Business",
+      "State": "TELANGANA"
+    },
+    {
+      "id": "6",
+      "name": "Colab Cloud - Design Conference & Virtual Exhibits",
+      "description": "House of Ritika presents COLAB CLOUD - Virtual Design Summit 2020. We are bringing together the finest minds in the design fraternity ranging from visual design, interior and architecture to design-centric brand leaders. *The thought is to curate a platform with cloud access*. We are launching a virtual summit loaded with panel discussions, webinars, live sessions, DIY’s, virtual exhibits. Your ticket also gives you access to the early preview of Project MX - a product showcase platform and a real-time interior layout & visualisation software that allows Design Partners to use Product Partner products and create spaces that can be visualised in 2D, 3D & in VR - providing a never-seen-before level of immersion! Come experience Magic!",
+      "Date": "12-10-2020",
+      "Phone": "665-555-5222",
+      "Email": "spirituality@gmail.com",
+      "Venue": "GOA",
+      "Venueid": "5678",
+      "category": "self-improvement",
+      "State": "GOA"
+    },
+    {
+      "id": "7",
+      "name": "The Mind Mastery Program",
+      "description": "An eye opening & profound spiritual program which takes you on a journey from the “Mind State” to the “No Mind State”, where you experience the true Yogic bliss! In this state your mind becomes an evolutionary tool & your life, a beautiful journey.Many people struggle to use their minds productively & live a focused & blissful life. This program practically teaches you the ancient spiritual secrets to Self liberation & Yogic bliss. Yes! It IS possible for you to live a completely beautiful life, free from fear & self doubt. By the end of this program you will not just know but also “experientially” realise that YOU are the master of your mind. You will begin to access the untapped parts of your brain to manifest the “YOU” which you always dreamt of becoming!",
+      "Date": "15-8-2020",
+      "Phone": "555-666-5222",
+      "Email": "mmindmastery@gmail.com",
+      "Venue": "JAIPUR",
+      "Venueid": "8585",
+      "category": "self-improvement",
+      "State": "RAJASTHAN"
+    },
+    {
+      "id": "8",
+      "name": "Saaz 20 : A Musical Evening",
+      "description": "As an extension, we are happy and proud to host Saaz: A musical evening at Lahe Lahe Santhe every first Sunday of the month.Welcome to an evening of music! Come along as we host 3 amazing singers/ bands from Bangalore and get mesmerized with their music",
+      "Date": "15-8-2020",
+      "Phone": "555-666-5222",
+      "Email": "motivate@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8885",
+      "category": "music-show",
+      "State": "TELANGANA"
+    },
+    {
+      "id": "9",
+      "name": "Music Jam",
+      "description": "Every Wednesday they gather in a circle as if around a Bonfire at the end of a busy day.They pull out their instruments from their cases or take those availbale here... they warm up their voice... the sound comes slowly up... Magic.Bring your positive energy, a musical instrument if you play any and your voice. Get ready for a soulful evening of music",
+      "Date": "15-07-2020",
+      "Phone": "555-555-5555",
+      "Email": "musicjame@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8595",
+      "category": "music-show"
+    },
+    {
+      "id": "10",
+      "name": "Kreative Kitchen - Chef Bharat Khemani",
+      "description": "Chef Bharat Khemani is an alumni of IHM Lucknow and he is also a Co-Owner of Karachi Halwa House (Since 1943) New Delhi. He is an Office bearer of an executive member of INDIAN CULINARY FORUM, INDIA. He appeared twice on Air FM Rainbow 102.6 FM as a Guest Chef. He was a part of the chef team at  SIAL-SHILLONG 2019 for Food Exhibitions and served CM oof All North Eastern States",
+      "Date": "15-8-2020",
+      "Phone": "555-666-5222",
+      "Email": "kitchen@gmail.com",
+      "Venue": "HYDERABAD",
+      "Venueid": "8885",
+      "category": "Workshop",
+      "State": "TELANGANA"
+    }
+  ]
+}
